@@ -1,0 +1,106 @@
+{
+  "version": "1.0",
+  "schema": "https://darwin-public.s3.eu-west-1.amazonaws.com/darwin_json/metadata/1.0/schema.json",
+  "classes": [
+    {
+      "name": "Proud Source Water 16OZ",
+      "type": "polygon",
+      "description": null,
+      "color": "rgba(143,255,0,1.0)",
+      "sub_types": [
+        "inference"
+      ],
+      "properties": []
+    },
+    {
+      "name": "Proud Source Water Sparkling 16OZ",
+      "type": "polygon",
+      "description": null,
+      "color": "rgba(255,0,0,1.0)",
+      "sub_types": [
+        "inference"
+      ],
+      "properties": []
+    },
+    {
+      "name": "MONSTER 16OZ",
+      "type": "polygon",
+      "description": null,
+      "color": "rgba(82,255,0,1.0)",
+      "sub_types": [
+        "inference"
+      ],
+      "properties": []
+    },
+    {
+      "name": "Starbucks Bottled Mocha Frappuccino 9.5 OZ",
+      "type": "polygon",
+      "description": null,
+      "color": "rgba(255,245,0,1.0)",
+      "sub_types": [
+        "inference"
+      ],
+      "properties": []
+    },
+    {
+      "name": "AGUA MINERAL LEVEN S/GAS 510ML - WHITE CAP",
+      "type": "polygon",
+      "description": null,
+      "color": "rgba(0,255,170,1.0)",
+      "sub_types": [
+        "inference"
+      ],
+      "properties": []
+    },
+    {
+      "name": "COCA-COLA LATA 350ML",
+      "type": "polygon",
+      "description": null,
+      "color": "rgba(173,255,0,1.0)",
+      "sub_types": [
+        "inference"
+      ],
+      "properties": []
+    },
+    {
+      "name": "POPPI RASPBERRY ROSE 12 OZ",
+      "type": "polygon",
+      "description": null,
+      "color": "rgba(0,239,196,1.0)",
+      "sub_types": [
+        "inference"
+      ],
+      "properties": []
+    },
+    {
+      "name": "CELSIUS LIVE FIT ENERGY WILD BERRY 12OZ",
+      "type": "polygon",
+      "description": null,
+      "color": "rgba(143,0,255,1.0)",
+      "sub_types": [
+        "inference"
+      ],
+      "properties": []
+    },
+    {
+      "name": "CELSIUS LIVE FIT ENERGY ORANGE 12OZ",
+      "type": "polygon",
+      "description": null,
+      "color": "rgba(255,245,0,1.0)",
+      "sub_types": [
+        "inference"
+      ],
+      "properties": []
+    },
+    {
+      "name": "WONDER MELON 8.45 OZ",
+      "type": "polygon",
+      "description": null,
+      "color": "rgba(0,225,239,1.0)",
+      "sub_types": [
+        "inference"
+      ],
+      "properties": []
+    }
+  ]
+}
